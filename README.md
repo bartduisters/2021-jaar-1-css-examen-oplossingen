@@ -12,3 +12,11 @@ Elke opdracht staat in een eigen map (opdracht-1, opdracht-2 etc.). Elke opdrach
 In elke opdrachtmap zit een map genaamd 'opdracht', dit wordt gezien als 'de root' van deze opdracht. Los de opdracht op, in deze map.
 
 In sommige opdrachtmappen zit een map genaamd 'resultaat', hierin zitten afbeeldingen om het gewenste resultaat te tonen.
+
+Punten:
+- Opdracht 1: /3
+- Opdracht 2: /4
+- Opdracht 3: /5
+- Opdracht 4: /8
+
+- Totaal: /20

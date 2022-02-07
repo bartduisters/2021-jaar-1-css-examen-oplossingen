@@ -4,3 +4,5 @@
 - Gebruikte witruimte: 10px
 - Verander niks aan de bestaande HTML
 - Voeg enkel CSS toe aan de codeblokken van de bestaande selectors (voeg géén nieuwe selectors toe)
+
+Punten: /5
